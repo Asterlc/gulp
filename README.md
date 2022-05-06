@@ -1,3 +1,3 @@
 # gulp
 
-Utilização para compactação, transpilação e builder de arquivos.(HTML, SCSS, JS,TS)
++ Utilização do Gulp pelas aulas da Cod3r
